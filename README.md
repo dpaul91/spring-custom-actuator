@@ -6,5 +6,7 @@ Spring boot demo for custom actuator
 actuator url :http://localhost:9191/actuator
 InfoController is used to add details for info url : http://localhost:9191/actuator/info
 CustomEndPoints is used to add custom url: 
-    http://localhost:9191/actuator/user-notes
-    http://localhost:9191/actuator/user-notes/count
+
+    1)http://localhost:9191/actuator/user-notes
+    
+    2)http://localhost:9191/actuator/user-notes/count
